@@ -1,15 +1,15 @@
 [
   {
     "full_name": "techno-tim/k3s-ansible",
-    "stargazers_count": 709,
-    "open_issues_count": 2,
-    "forks_count": 289
+    "stargazers_count": 712,
+    "open_issues_count": 3,
+    "forks_count": 296
   },
   {
     "full_name": "xcad2k/cheat-sheets",
-    "stargazers_count": 572,
+    "stargazers_count": 582,
     "open_issues_count": 3,
-    "forks_count": 275
+    "forks_count": 280
   },
   {
     "full_name": "QuestPDF/QuestPDF-ExampleInvoice",
@@ -19,32 +19,32 @@
   },
   {
     "full_name": "QuestPDF/QuestPDF",
-    "stargazers_count": 3404,
-    "open_issues_count": 92,
-    "forks_count": 190
+    "stargazers_count": 3436,
+    "open_issues_count": 93,
+    "forks_count": 191
   },
   {
     "full_name": "tabler/tabler",
-    "stargazers_count": 31277,
-    "open_issues_count": 52,
-    "forks_count": 3247
+    "stargazers_count": 31328,
+    "open_issues_count": 51,
+    "forks_count": 3257
   },
   {
     "full_name": "FastReports/FastReport",
-    "stargazers_count": 1980,
+    "stargazers_count": 1983,
     "open_issues_count": 74,
-    "forks_count": 462
+    "forks_count": 463
   },
   {
     "full_name": "dotnet/maui",
-    "stargazers_count": 16779,
-    "open_issues_count": 1713,
-    "forks_count": 1029
+    "stargazers_count": 16897,
+    "open_issues_count": 1735,
+    "forks_count": 1039
   },
   {
     "full_name": "rcmaehl/WhyNotWin11",
-    "stargazers_count": 5839,
-    "open_issues_count": 16,
+    "stargazers_count": 5838,
+    "open_issues_count": 15,
     "forks_count": 434
   },
   {
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 101017,
-    "open_issues_count": 130,
-    "forks_count": 6256
+    "stargazers_count": 101580,
+    "open_issues_count": 112,
+    "forks_count": 6296
   },
   {
     "full_name": "xamarin/XamarinCommunityToolkit",
-    "stargazers_count": 1567,
+    "stargazers_count": 1565,
     "open_issues_count": 263,
-    "forks_count": 463
+    "forks_count": 465
   },
   {
     "full_name": "files-community/Files",
-    "stargazers_count": 23973,
-    "open_issues_count": 683,
-    "forks_count": 1472
+    "stargazers_count": 24026,
+    "open_issues_count": 692,
+    "forks_count": 1478
   },
   {
     "full_name": "Mafrans/StadiaPlus",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "commandlineparser/commandline",
-    "stargazers_count": 3632,
+    "stargazers_count": 3636,
     "open_issues_count": 261,
     "forks_count": 436
   },
@@ -91,26 +91,26 @@
   },
   {
     "full_name": "microsoft/winget-cli",
-    "stargazers_count": 17685,
-    "open_issues_count": 532,
-    "forks_count": 1011
+    "stargazers_count": 17703,
+    "open_issues_count": 538,
+    "forks_count": 1013
   },
   {
     "full_name": "microsoft/terminal",
-    "stargazers_count": 85017,
+    "stargazers_count": 85065,
     "open_issues_count": 1479,
-    "forks_count": 7471
+    "forks_count": 7472
   },
   {
     "full_name": "raspberrypi/Raspberry-Pi-OS-64bit",
-    "stargazers_count": 473,
-    "open_issues_count": 107,
+    "stargazers_count": 474,
+    "open_issues_count": 109,
     "forks_count": 19
   },
   {
     "full_name": "olifolkerd/tabulator",
-    "stargazers_count": 4863,
-    "open_issues_count": 63,
-    "forks_count": 647
+    "stargazers_count": 4872,
+    "open_issues_count": 54,
+    "forks_count": 646
   }
 ]
